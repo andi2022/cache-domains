@@ -1,0 +1,4 @@
+officecdn.microsoft.com.edgesuite.net
+.officecdn.microsoft.com.edgesuite.net
+officecdn.microsoft.com
+.officecdn.microsoft.com

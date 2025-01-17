@@ -118,6 +118,11 @@
 			"domain_files": ["windowsupdates.txt"]
 		},
 		{
+			"name": "msoffice365",
+			"description": "CDN for msoffice365 install & updates",
+			"domain_files": ["msoffice365.txt"]
+		},
+		{
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
