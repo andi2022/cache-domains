@@ -1,7 +1,10 @@
 *.windowsupdate.com
 *.dl.delivery.mp.microsoft.com
 dl.delivery.mp.microsoft.com
+update.microsoft.com
 *.update.microsoft.com
+windowsupdate.microsoft.com
+*.windowsupdate.microsoft.com
 *.do.dsp.mp.microsoft.com
 *.microsoft.com.edgesuite.net
 amupdatedl.microsoft.com
